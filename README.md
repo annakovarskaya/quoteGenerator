@@ -3,10 +3,10 @@ Simple node express app that randomly choose quotes source - Quotes on Design AP
 
 Deployment instructions
 
-1.In the command line for the root directory(random-quote-generator) run: npm install
+1. In the command line for the root directory(random-quote-generator) run: npm install
 
-2.Change the directory to \client (this is the frontend part of the app) and run: npm install in command line for this directory.
+2. Change the directory to \client (this is the frontend part of the app) and run: npm install in command line for this directory.
 
-3.After all packages have been installed, start the app from the root directory (random-quote-generator): npm start
+3. After all packages have been installed, start the app from the root directory (random-quote-generator): npm start
 
-4.Now you can see the 'Random Inspirational Quote Generator' app in the browser at the address http://localhost:3000/
+4. Now you can see the 'Random Inspirational Quote Generator' app in the browser at the address http://localhost:3000/
